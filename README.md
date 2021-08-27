@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Stopwatch App_
 
 #### _{Brief description of application}_
 
