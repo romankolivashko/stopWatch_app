@@ -1,6 +1,6 @@
 # _Stopwatch App_
 
-#### _{Brief description of application}_
+#### _Console JavaScript stopwatch app_
 
 #### By _**Roman Kolivashko**_
 
@@ -10,17 +10,10 @@
 * _CSS_
 * _JavaScript_
 
-## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
-
 ## Setup/Installation Requirements
 
-* _Run_ `git clone https://github.com/romankolivashko/{app_name}.git`
+* _Run_ `git clone https://github.com/romankolivashko/stopWatch_app.git`
 * _Open `index.html` file in browser._
-
-## How to access the app from the web
-* _Follow the link [here](https://romankolivashko.github.io/app_name/)_ 
 
 ## Known Bugs
 
